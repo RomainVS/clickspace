@@ -72,6 +72,7 @@ If you'd like to request a new functionality, feel free to do so by opening an i
 
 ## Team
 
+[![Timothé Hatton ](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Baptiste Villain](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Hélène Ta](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Christine Pemba Kingala](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Romain Vigneron](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)
 ---|---
 [Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
 
