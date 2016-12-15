@@ -7,8 +7,6 @@
 		</td>
 	</tr>
 </table>
-
-
 ## Demo
 You can test a working live demo at  http://baptistevillain.fr/project/clicker/
 
@@ -41,9 +39,10 @@ If you find a bug , open an issue [here]( URL ISSUE PROJECT ).
 
 ## Built with 
 
-- Js ![](https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)
-- Html ![](IMAGE OU GIF)
-- Php ![](IMAGE OU GIF)
+#### HTML
+#### CSS
+#### JS
+#### PHP
 
 ## Team
 
