@@ -2,61 +2,42 @@
 <table>
 	<tr>
 		<td>
-			Our project is a click game that takes place in space 
+			Our project is a click game that takes place in space .
+			You need to make the rocket travel throught the galaxy and achieve the longest distance.
 		</td>
 	</tr>
 </table>
 
 
 ## Demo
-You can test a fully working live demo at  https://iharsh234.github.io/WebApp/
+You can test a working live demo at  http://baptistevillain.fr/project/clicker/
 
-
-## Site
+## Game
 
 ### Landing Page
-Currently its working on all NSE (India) Stocks and will Add all BSE (India) Stocks Symbol soon.
+Here's the landing page of our game :
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+<!-- ![](PHOTO OU GIF) -->
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+### On a planet
+That's the main view before the takeoff :
+<!-- ![](IMAGE OU GIF) -->
 
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+### Throught space
+When you have enought energy to takeoff you go to space :
+<!-- ![](IMAGE OU GIF)
+![](IMAGE OU GIF)
+![](IMAGE OU GIF) -->
 
+### Shop
+Here's the shop : 
+<!-- ![](IMAGE OU GIF)
+![](IMAGE OU GIF)
+![](IMAGE OU GIF) -->
 
-## Mobile support
-The WebApp is usable on devices of all sizes, and improvements are constantly being made in this area.
+### Bug
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
-
-
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave irrelevant results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new) including some sample queries and their corresponding results.
-
+If you find a bug , open an issue [here]( URL ISSUE PROJECT ).
 
 ## Built with 
 
@@ -66,16 +47,12 @@ If you'd like to request a new functionality, feel free to do so by opening an i
 
 
 ## Todo
-- Adding BSE (India) Symbol to current App.
-- Deciding Comparison models of Stocks. (suggestion are most welcome).
-- Another WebApp  Doing Comparision between atleast 10 Stocks.
-
+- 
+- 
+- 
 ## Team
 
-[![Timothé Hatton](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Baptiste Villain](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Hélène Ta](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Christine Pemba Kingala](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/kristinee3) | [![Romain Vigneron](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/RomainVS)
+[![Timothé Hatton](https://avatars0.githubusercontent.com/u/17114378?v=3&s=400)](https://github.com/timothee-h) | [![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=400)](https://github.com/BaptisteVillain)  | [![Hélène Ta](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Christine Pemba Kingala](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/kristinee3) | [![Romain Vigneron](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/RomainVS)
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+HETIC ©
