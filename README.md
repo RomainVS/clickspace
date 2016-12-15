@@ -41,15 +41,10 @@ If you find a bug , open an issue [here]( URL ISSUE PROJECT ).
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- Js ![](https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)
+- Html ![](IMAGE OU GIF)
+- Php ![](IMAGE OU GIF)
 
-
-## Todo
-- 
-- 
-- 
 ## Team
 
 [![Timothé Hatton](https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)](https://github.com/timothee-h) | [![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=144)](https://github.com/BaptisteVillain)  | [![Hélène Ta](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/iharsh234)  | [![Christine Pemba Kingala](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/kristinee3) | [![Romain Vigneron](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/RomainVS)
