@@ -59,6 +59,6 @@ For the scoreboard and the usernames.
 
 ## Team
 
-[[Timothé Hatton]!(https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)](https://github.com/timothee-h)|[![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=144)](https://github.com/BaptisteVillain)[![Hélène Ta](https://avatars3.githubusercontent.com/u/17271978?v=3&s=144)|[![Christine Pemba Kingala](https://avatars1.githubusercontent.com/u/17271798?v=3&s=400)](https://github.com/kristinee3)|[![Romain Vigneron](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/RomainVS)
+[![Timothé Hatton](https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)](https://github.com/timothee-h)|[![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=144)](https://github.com/BaptisteVillain)[![Hélène Ta](https://avatars3.githubusercontent.com/u/17271978?v=3&s=144)|[![Christine Pemba Kingala](https://avatars1.githubusercontent.com/u/17271798?v=3&s=144)](https://github.com/kristinee3)|[![Romain Vigneron](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/RomainVS)
 
 HETIC ©
