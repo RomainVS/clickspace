@@ -3,7 +3,7 @@
 	<tr>
 		<td>
 			Our project is a click game that takes place in space .
-			You need to make the rocket travel throught the galaxy and achieve the longest distance.
+			You need to make the rocket travel throught the galaxy and achieve the longest distance, you have plenty of upgrades available to help you. Click, collect, get AWESOME upgrades in Space Traveler.
 		</td>
 	</tr>
 </table>
@@ -19,18 +19,17 @@ Here's the landing page of our game :
 
 ### On a planet
 That's the main view before the takeoff :
-![](http://giphy.com/gifs/l0MYBZ4fXOnwYkT5e)
+![](http://baptistevillain.fr/project/clicker/gif-3.gif)
 
 ### Throught space
 When you have enought energy to takeoff you go to space :
-![](http://giphy.com/gifs/3oz8xOO2HxKDD4RysU)
+![](http://baptistevillain.fr/project/clicker/gif-2.gif)
 ### Shop	
 Here's the shop : 
-![](http://giphy.com/gifs/l0MYBZ4fXOnwYkT5e)
-
+![](http://baptistevillain.fr/project/clicker/gif-1.gif)
 ### Bug
 
-If you find a bug , open an issue [here]( URL ISSUE PROJECT ).
+If you find a bug , open an issue [here](https://github.com/BaptisteVillain/Game_clicker/issues).
 
 ## Built with 
 
