@@ -52,7 +52,6 @@ If you find a bug , open an issue [here]( URL ISSUE PROJECT ).
 - 
 ## Team
 
-[![Timothé Hatton](https://avatars0.githubusercontent.com/u/17114378?v=3&s=400)](https://github.com/timothee-h) | [![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=400)](https://github.com/BaptisteVillain)  | [![Hélène Ta](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Christine Pemba Kingala](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/kristinee3) | [![Romain Vigneron](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/RomainVS)
----|---
+[![Timothé Hatton](https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)](https://github.com/timothee-h) | [![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=144)](https://github.com/BaptisteVillain)  | [![Hélène Ta](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/iharsh234)  | [![Christine Pemba Kingala](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/kristinee3) | [![Romain Vigneron](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/RomainVS)
 
 HETIC ©
