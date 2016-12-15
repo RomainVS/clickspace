@@ -8,7 +8,7 @@
 	</tr>
 </table>
 ## Demo
-You can test a working live demo at  http://baptistevillain.fr/project/clicker/
+You can test a working live demo at http://baptistevillain.fr/project/clicker/
 
 ## Game
 
@@ -39,13 +39,13 @@ If you find a bug , open an issue [here]( URL ISSUE PROJECT ).
 
 ## Built with 
 
-#### HTML
-#### CSS
-#### JS
-#### PHP
+##### HTML
+##### CSS
+##### JS
+##### PHP
 
 ## Team
 
-[![Timothé Hatton](https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)](https://github.com/timothee-h) | [![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=144)](https://github.com/BaptisteVillain)  | [![Hélène Ta](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/iharsh234)  | [![Christine Pemba Kingala](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/kristinee3) | [![Romain Vigneron](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/RomainVS)
+[![Timothé Hatton](https://avatars0.githubusercontent.com/u/17114378?v=3&s=144)](https://github.com/timothee-h) | [![Baptiste Villain](https://avatars0.githubusercontent.com/u/17247097?v=3&s=144)](https://github.com/BaptisteVillain)  | [![Hélène Ta](https://avatars3.githubusercontent.com/u/17271978?v=3&s=144)  | [![Christine Pemba Kingala](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/kristinee3) | [![Romain Vigneron](https://avatars2.githubusercontent.com/u/17247202?v=3&s=144)](https://github.com/RomainVS)
 
 HETIC ©
