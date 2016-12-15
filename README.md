@@ -8,7 +8,7 @@
 	</tr>
 </table>
 ## Demo
-You can test a working live demo at http://baptistevillain.fr/project/clicker/
+You can test a working live demo at http://www.spacetraveler.xyz
 
 ## Game
 
